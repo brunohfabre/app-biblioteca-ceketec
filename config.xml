@@ -7,6 +7,7 @@
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
+    <icon src="logo.png" width="256" height="256" />
     <content src="index.html" />
     <access origin="*" />
 </widget>
